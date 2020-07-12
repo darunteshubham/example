@@ -1,0 +1,12 @@
+{
+    "name": "shubham/example",
+    "description": "To learn package",
+    "require": {
+        "php": "^7.2"       
+    },
+    "autoload": {
+        "psr-4": {
+            "shubham\\example\\": "src"
+        }      
+    }
+}
