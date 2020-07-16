@@ -1,5 +1,5 @@
 <?php
-namespace shubham\example;
+namespace darunteshubham\example;
 
 class example
 {
