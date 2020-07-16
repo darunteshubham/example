@@ -1,12 +1,18 @@
 {
-    "name": "shubham/example",
-    "description": "To learn package",
-    "require": {
-        "php": "^7.2"       
-    },
-    "autoload": {
+    "name": "darunteshubham/example",
+    "description": "testing",
+    "type": "library",
+    "authors": [
+        {
+            "name": "shubham darunte",
+            "email": "darunteshubham@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+	  "autoload": {
         "psr-4": {
-            "shubham\\example\\": "src"
+            "darunteshubham\\example\\": "src"
         }      
     }
 }
